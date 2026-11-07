@@ -1,0 +1,13 @@
+Exercise #1
+#'Day 2:30 days of programing'
+first_name = 'Justin'
+last_name = 'Ruiz'
+full_name = 'Justin Ruiz'
+country = 'Puerto Rico'
+city = 'San Sebastian'
+age = 21
+year = 2026
+is_married = False
+is_true = True
+is_light_on = True 
+passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
