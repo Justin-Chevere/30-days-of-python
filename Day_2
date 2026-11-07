@@ -1,4 +1,4 @@
-Exercise #1
+Exercise Level 1
 #'Day 2:30 days of programing'
 first_name = 'Justin'
 last_name = 'Ruiz'
@@ -11,3 +11,51 @@ is_married = False
 is_true = True
 is_light_on = True 
 passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
+
+Exercise Level 2
+#'Day 2:30 days of programing'
+first_name = 'Justin' 
+last_name = 'Ruiz'
+full_name = 'Justin Ruiz'
+country = 'Puerto Rico'
+city = 'San Sebastian'
+age = 21
+year = 2026
+is_married = False
+is_true = True
+is_light_on = True 
+passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
+
+
+print(type('Justin'))
+print(type('Ruiz'))
+print(type('Justin Ruiz'))
+print(type('Puerto Rico'))
+print(type('San Sebastian'))
+print(type(21))
+print(type(2026))
+print(type(False))
+print(type(True))
+print(type(['Jesus Christ', 'Church', 'Gym', 'Tech']))
+print(len(first_name))
+num_one = 5
+num_two = 4 
+total= num_one + num_two 
+diff = num_two - num_one 
+product = num_two * num_one 
+divison = num_one / num_two 
+remainder = num_two % num_one 
+exp = num_one ** num_two
+floor_division = num_one // num_two
+import math
+
+radius = 30
+
+area_of_circle = radius ** 2 * math.pi
+circum_of_circle = radius * 2 * math.pi
+
+radius = float(input("Enter the Radius: "))
+area_of_circle = radius ** 2 * math.pi
+circum_of_circle = radius * 2 * math.pi
+print(area_of_circle)
+print(circum_of_circle)
