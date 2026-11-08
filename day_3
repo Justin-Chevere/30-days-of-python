@@ -19,3 +19,42 @@ area = length * width
 perimeter = 2 * (length + width)
 print(area)
 print(perimeter)
+
+import math
+radius = float(input("Enter radius: "))
+area = math.pi * radius * radius
+print(area)
+circunference = 2 * math.pi * radius
+print(circunference) 
+
+# Slope
+slope = 2
+
+# Y-intercept
+x = 0
+y_intercept = 2 * x - 2
+
+# X-intercept
+y = 0
+x_intercept = (y + 2) / 2
+
+# Display results
+print("Slope:", slope)
+print("Y-intercept:", y_intercept)
+print("X-intercept:", x_intercept)
+
+
+x1 = 2
+y1 = 2
+x2 = 6
+y2 = 10
+slope = (y2 - y1) / (x2 - x1)
+print(slope)
+diagonal_distance = math.sqrt((x2 - x1)** 2 + (y2 - y1)** 2)
+print(diagonal_distance)
+
+#Compare slopes
+slope1 = 2
+slope2 = (y2 - y1) / (x2 - x1)
+slope1 == slope2
+slope1 > slope2
