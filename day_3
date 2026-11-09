@@ -78,3 +78,14 @@ print(result)
   print('on in python, dragon', 'on' in "python" and 'on' in "dragon")
   print('is jargon', 'jargon' in "I hope this course is not full of jargon")
   print('on not in python, dragon', 'on' not in "python" and 'on'not  in "dragon")
+
+num = 4
+print(num % 2 == 0)
+
+print( 7 // 3)
+print(int(2.7))
+print( 7 // 3 == int(2.7))
+
+print(type('10') == type(10))
+print(int('9.8') == 10) # it will give and error
+
