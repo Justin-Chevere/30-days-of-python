@@ -94,3 +94,6 @@ hours = input("hours: ")
 rate_per_hour = input("rate per hour: ") 
 weekly_earning = float(hours) * float(rate_per_hour)
 print("Your weekly earning is: ", weekly_earning)
+
+years_you_have_lived = input("Enter the number of years you lived: ")
+print("You have lived for", int(years_you_have_lived) * 365 * 24 * 60 * 60, "seconds") 
