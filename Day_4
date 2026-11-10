@@ -28,3 +28,13 @@ print(company.replace('Coding', 'Python'))
 python_stuff = "Python For Everyone"
 print(python_stuff.replace('For Everyone','For All'))
 print(company.split())
+companies = "Amazon, Google, Microsoft, Apple, IBM, Oracle, Amazon"
+print(companies.split(","))
+
+# What is the character at index 0 in the string Coding For All. the answer is C
+coding_stuff = "Coding For All"
+print(coding_stuff.find("C"))
+print(coding_stuff[0]) #Index
+# What character is at index 10 in "Coding For All" string. the answer is the space between For and All
+coding_stuff = "Coding For All"
+print(coding_stuff[10])
