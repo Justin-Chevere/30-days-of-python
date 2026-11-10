@@ -1,1 +1,23 @@
+number = 'Thirty'
+days = 'Days'
+of = 'Of'
+space = ' '
+python = 'Python'
+print(number + space + days + space + of  + space + python)
+
+coding = 'Coding'
+for1 = 'For'
+all_word = 'All'
+space = ' '
+print(coding + space + for1 + space + all_word)
+company = "Coding For All"
+print(company)
+print(len(company))
+print(company.upper())
+print(company.lower())
+print(company.capitalize() + space  +  company.title() + space + company.swapcase()) # Concatenated version
+print(company.capitalize() 
+print(company.tittle()) 
+print(company.swapcase()) 
+      
 
