@@ -40,3 +40,32 @@ print(coding_stuff[13]) #Index
 # What character is at index 10 in "Coding For All" string. the answer is the space between For and All
 coding_stuff = "Coding For All"
 print(coding_stuff[10])
+
+python_stuff = 'Python for everyone'
+pfe = python_stuff[0] + python_stuff[7] + python_stuff[11]
+print(pfe)
+
+coding_stuff = "Coding For All"
+cfa = coding_stuff[0] + coding_stuff[7] + coding_stuff[11]
+print(cfa)
+print(coding_stuff.index("C"))
+print(coding_stuff.index("F"))
+
+more_codingstuff = "Coding For All People"
+print(more_codingstuff.rfind("l"))
+
+sentence = 'You cannot end a sentence with because because because is a conjunction'
+print(sentence.find('because'))
+print(sentence.index('because'))
+
+sentence1 = 'You cannot end a sentence with because because because is a conjunction'
+print(sentence1.rindex('because'))
+
+because = 'You cannot end a sentence with because because because is a conjunction'
+print(because[31:54])
+
+# 28. Does 'Coding For All' start with a substring Coding?. Answer True
+coding_stuff = "Coding For All"
+print(coding_stuff.startswith("Coding"))
+# 29. Does 'Coding For All' end with a substring coding?. Answer False
+print(coding_stuff.endswith("coding")) 
