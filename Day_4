@@ -69,3 +69,16 @@ coding_stuff = "Coding For All"
 print(coding_stuff.startswith("Coding"))
 # 29. Does 'Coding For All' end with a substring coding?. Answer False
 print(coding_stuff.endswith("coding")) 
+stuffing = '   Coding For All      ' 
+print(stuffing.strip())
+#Which one of the following variables return True when we use the method isidentifier():
+#30DaysOfPython
+#thirty_days_of_python
+test = "30DaysOfPython"
+print(test.isidentifier())
+test1 = "thirty_days_of_python"
+print(test1.isidentifier())
+#Answer test = false and test1 = true
+
+library = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
+print('# '.join(library))
