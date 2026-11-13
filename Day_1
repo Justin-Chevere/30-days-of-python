@@ -1,3 +1,3 @@
 Day_1 Intro
-print("Hello, World!")
-print("30 days of python")
+print("Hello, World!") # prints Hello, World!
+print("30 days of python") # prints 30 Days of python
