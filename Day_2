@@ -1,8 +1,8 @@
 Exercise Level 1
 #'Day 2:30 days of programing'
-first_name = 'Justin'
-last_name = 'Ruiz'
-full_name = 'Justin Ruiz'
+first_name = 'Justin' # Declare a first name variable and assign a value to it
+last_name = 'Ruiz' # Declare a last name variable and assign a value to it
+full_name = 'Justin Ruiz' # Declare a full name variable and assign a value to it
 country = 'Puerto Rico'
 city = 'San Sebastian'
 age = 21
