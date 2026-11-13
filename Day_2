@@ -3,14 +3,14 @@ Exercise Level 1
 first_name = 'Justin' # Declare a first name variable and assign a value to it
 last_name = 'Ruiz' # Declare a last name variable and assign a value to it
 full_name = 'Justin Ruiz' # Declare a full name variable and assign a value to it
-country = 'Puerto Rico'
-city = 'San Sebastian'
-age = 21
-year = 2026
-is_married = False
-is_true = True
-is_light_on = True 
-passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
+country = 'Puerto Rico' # Declare a country variable and assign a value to it
+city = 'San Sebastian' # Declare a city variable and assign a value to it
+age = 21 # Declare an age variable and assign a value to it
+year = 2026 # Declare a year variable and assign a value to it
+is_married = False # Declare a variable is_married and assign a value to it
+is_true = True # Declare a variable is_true and assign a value to it
+is_light_on = True # Declare a variable is_light_on and assign a value to it
+passions = ['Jesus Christ', 'Church', 'Gym', 'Tech'] # Declare multiple variable on one line
 
 Exercise Level 2
 #'Day 2:30 days of programing'
