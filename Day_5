@@ -1,1 +1,8 @@
-
+Some_list = []
+List_stuff = ['Samsung','Apple','Nvidia','Google','Amazon']
+print(len(Some_list))
+print(len(List_stuff))
+first_item = List_stuff[0]
+middle_item = List_stuff[2]
+last_item = List_stuff[4]
+print(first_item, middle_item, last_item)
