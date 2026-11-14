@@ -6,3 +6,20 @@ first_item = List_stuff[0]
 middle_item = List_stuff[2]
 last_item = List_stuff[4]
 print(first_item, middle_item, last_item)
+
+mixed_data_types = ['Justin', 21, 162.56, True , 'san sebastian']
+it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
+first_company = it_companies[0]
+middle_company = it_companies[3]
+last_company = it_companies[-1]
+print(mixed_data_types)
+print(it_companies)
+print('Number of Companies:', len(it_companies))
+print(first_company, middle_company, last_company)
+it_companies[0] = 'HPE'
+print(it_companies)
+it_companies.append('Honeywell')
+print(it_companies)
+it_companies.insert(4, 'Nvidia')
+print(it_companies)
+
