@@ -37,7 +37,7 @@ print(type(is_married)) # Check the data type of all your variables using type()
 print(type(is_true)) # Check the data type of all your variables using type() built-in function
 print(type(is_light_on)) # Check the data type of all your variables using type() built-in function
 print(type(passions)) # Check the data type of all your variables using type() built-in function
-print(len(first_name))
+print(len(first_name)) # sing the len() built-in function, find the length of your first name
 print(len(last_name))
 print(len(first_name) > len(last_name))
 print(len(first_name) < len(last_name))
