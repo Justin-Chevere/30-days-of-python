@@ -26,21 +26,7 @@ is_true = True
 is_light_on = True 
 passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
 
-#'Day 2:30 days of programing'
-first_name = 'Justin' 
-last_name = 'Ruiz'
-full_name = 'Justin Ruiz'
-country = 'Puerto Rico'
-city = 'San Sebastian'
-age = 21
-year = 2026
-is_married = False
-is_true = True
-is_light_on = True 
-passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
-
-
-print(type(first_name))
+print(type(first_name)) # Check the data type of all your variables using type() built-in function
 print(type(last_name))
 print(type(full_name))
 print(type(country))
