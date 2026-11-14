@@ -27,16 +27,16 @@ is_light_on = True
 passions = ['Jesus Christ', 'Church', 'Gym', 'Tech']
 
 print(type(first_name)) # Check the data type of all your variables using type() built-in function
-print(type(last_name))
-print(type(full_name))
-print(type(country))
-print(type(city))
-print(type(age))
-print(type(year))
-print(type(is_married))
-print(type(is_true))
-print(type(is_light_on))
-print(type(passions))
+print(type(last_name)) # Check the data type of all your variables using type() built-in function
+print(type(full_name)) # Check the data type of all your variables using type() built-in function
+print(type(country)) # Check the data type of all your variables using type() built-in function
+print(type(city)) # Check the data type of all your variables using type() built-in function
+print(type(age)) # Check the data type of all your variables using type() built-in function
+print(type(year)) # Check the data type of all your variables using type() built-in function
+print(type(is_married)) # Check the data type of all your variables using type() built-in function
+print(type(is_true)) # Check the data type of all your variables using type() built-in function
+print(type(is_light_on)) # Check the data type of all your variables using type() built-in function
+print(type(passions)) # Check the data type of all your variables using type() built-in function
 print(len(first_name))
 print(len(last_name))
 print(len(first_name) > len(last_name))
