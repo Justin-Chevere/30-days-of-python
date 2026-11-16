@@ -43,8 +43,8 @@ print(len(first_name) > len(last_name)) # Compare the length of your first name 
 print(len(first_name) < len(last_name)) # Compare the length of your first name and your last name
 num_one = 5 # Add num_one and num_two and assign the value to a variable total
 num_two = 4 # Add num_one and num_two and assign the value to a variable total
-total= num_one + num_two 
-diff = num_one - num_two
+total= num_one + num_two # Add num_one and num_two and assign the value to a variable total
+diff = num_one - num_two # Subtract num_two from num_one and assign the value to a variable diff
 product = num_two * num_one 
 division = num_one / num_two 
 remainder = num_two % num_one 
