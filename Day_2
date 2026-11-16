@@ -45,10 +45,10 @@ num_one = 5 # variable for num one
 num_two = 4 # variable for num two
 total= num_one + num_two # Add num_one and num_two and assign the value to a variable total
 diff = num_one - num_two # Subtract num_two from num_one and assign the value to a variable diff
-product = num_two * num_one 
-division = num_one / num_two 
-remainder = num_two % num_one 
-exp = num_one ** num_two
+product = num_two * num_one # Multiply num_two and num_one and assign the value to a variable product
+division = num_one / num_two # Divide num_one by num_two and assign the value to a variable division
+remainder = num_two % num_one # Use modulus division to find num_two divided by num_one and assign the value to a variable remainder
+exp = num_one ** num_two 
 floor_division = num_one // num_two
 import math
 
