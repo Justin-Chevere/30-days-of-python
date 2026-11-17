@@ -49,7 +49,7 @@ product = num_two * num_one # Multiply num_two and num_one and assign the value 
 division = num_one / num_two # Divide num_one by num_two and assign the value to a variable division
 remainder = num_two % num_one # Use modulus division to find num_two divided by num_one and assign the value to a variable remainder
 exp = num_one ** num_two # Calculate num_one to the power of num_two and assign the value to a variable exp
-floor_division = num_one // num_two
+floor_division = num_one // num_two # Find floor division of num_one by num_two and assign the value to a variable floor_division
 import math
 
 radius = 30
