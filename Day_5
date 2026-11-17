@@ -26,3 +26,5 @@ print(it_companies[1].upper())
 print('#; '.join(it_companies))
 print('RTX' in it_companies )
 print('HPE' in it_companies )
+it_companies.sort() #this sorts the list in a ascending order
+#You can also do descending order by doing for example it_companies.sort(reverse=True)
