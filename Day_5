@@ -22,4 +22,4 @@ it_companies.append('Honeywell')
 print(it_companies)
 it_companies.insert(4, 'Nvidia')
 print(it_companies)
-
+print(it_companies[1].upper())
