@@ -1,6 +1,6 @@
 #Day_3:30
 age = 21 # Declare your age as integer variable
-height = 20.0
+height = 20.0 # Declare your height as a float variable
 number = 3 + 4j
 base = float(input("Enter base: "))
 height = float(input("Enter height: "))
