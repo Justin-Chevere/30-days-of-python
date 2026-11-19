@@ -1,5 +1,5 @@
 #Day_3:30
-age = 21
+age = 21 # Declare your age as integer variable
 height = 20.0
 number = 3 + 4j
 base = float(input("Enter base: "))
