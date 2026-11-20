@@ -34,4 +34,12 @@ it_companies[-3:]
 it_companies[4:5]
 # Continuation of the exersices..is to not lose track because i also work.
 it_companies = ['Facebook', 'HPE', 'Google', 'Microsotf, 'Apple','Oracle', 'Amazon']
+it_companies.remove('Facebook')
+it_companies.remove('Amazon')
+it_companies.remove('Microsoft')
+del it_companies[0:7] # you can also use [:] and .clear to delete the entire list
+print(it_companies)
+del it_companies
+print(it_companies)
+
 
