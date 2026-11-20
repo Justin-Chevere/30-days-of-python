@@ -32,3 +32,6 @@ print(it_companies)
 it_companies[0:3]
 it_companies[-3:]
 it_companies[4:5]
+# Continuation of the exersices..is to not lose track because i also work.
+it_companies = ['Facebook', 'HPE', 'Google', 'Microsotf, 'Apple','Oracle', 'Amazon']
+
