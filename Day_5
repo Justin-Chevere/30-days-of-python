@@ -41,5 +41,19 @@ del it_companies[0:7] # you can also use [:] and .clear to delete the entire lis
 print(it_companies)
 del it_companies
 print(it_companies)
+it_companies = ['Facebook', 'HPE', 'Google', 'Microsoft', 'Apple','Oracle', 'Amazon']
+it_companies.remove('Facebook')
+it_companies.remove('Amazon')
+it_companies.remove('Microsoft')
+del it_companies[0:7] # you can also use [:] and .clear to delete the entire list
+print(it_companies)
+del it_companies
+print(it_companies)
 
+front_end = ['HTML','CSS', 'JS', 'React', 'Redux']
+back_end = ['Node', 'Express', 'MongoDB']
+full_stack = front_end + back_end
+full_stackcopy = full_stack.copy()
+full_stackcopy.insert(4, 'Python')
+full_stackcopy.insert(6, 'SQL')
 
