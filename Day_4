@@ -3,7 +3,7 @@ days = 'Days'
 of = 'Of'
 space = ' '
 python = 'Python'
-print(number + space + days + space + of  + space + python)
+print(number + space + days + space + of  + space + python) # Concatenate the string 'Thirty', 'Days', 'Of', 'Python' to a single string, 'Thirty Days Of Python'.
 
 coding = 'Coding'
 for1 = 'For'
