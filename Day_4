@@ -9,7 +9,7 @@ coding = 'Coding'
 for1 = 'For'
 all_word = 'All'
 space = ' '
-print(coding + space + for1 + space + all_word)
+print(coding + space + for1 + space + all_word) # Concatenate the string 'Coding', 'For' , 'All' to a single string, 'Coding For All'
 company = "Coding For All"
 print(company)
 print(len(company))
