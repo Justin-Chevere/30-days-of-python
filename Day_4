@@ -20,7 +20,7 @@ print(company.capitalize()
 print(company.tittle()) 
 print(company.swapcase()) 
       
-company = "Coding For All"
+company = "Coding For All" # Declare a variable named company and assign it to an initial value "Coding For All".
 print(company)
 print(company[6:])
 print(company.find('Coding'))
