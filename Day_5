@@ -1,4 +1,4 @@
-Some_list = []
+Some_list = [] # Declare an empty list
 List_stuff = ['Samsung','Apple','Nvidia','Google','Amazon']
 print(len(Some_list))
 print(len(List_stuff))
