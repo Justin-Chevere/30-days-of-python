@@ -1,5 +1,5 @@
 Some_list = [] # Declare an empty list
-List_stuff = ['Samsung','Apple','Nvidia','Google','Amazon']
+List_stuff = ['Samsung','Apple','Nvidia','Google','Amazon'] # Declare a list with more than 5 items
 print(len(Some_list))
 print(len(List_stuff))
 first_item = List_stuff[0]
