@@ -92,6 +92,7 @@ radius = 10
 area = 3.14 * radius ** 2
 print("The area of a circle with radius {} is {} meters square.".format(radius, area))
 
+# Make the following using string formatting methods:
 num = 8
 num1 = 6
 print('{} + {} = {}'.format(num, num1, num + num1))
