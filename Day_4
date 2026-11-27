@@ -86,6 +86,7 @@ print('# '.join(library))
 
 print('I am enjoying this challenge.\nI just wonder what is next.')
 
+# Use a tab escape sequence to write the following lines
 print('Name\tAge\tCountry\tCity')
 print('Asabeneh\t250\tFinland\tHelsinki')
 
