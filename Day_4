@@ -61,6 +61,7 @@ print(sentence.index('because'))
 sentence1 = 'You cannot end a sentence with because because because is a conjunction'
 print(sentence1.rindex('because'))
 
+# Slice out the phrase 'because because because' in the following sentence: 'You cannot end a sentence with because because because is a conjunction'
 because = 'You cannot end a sentence with because because because is a conjunction'
 print(because[31:54])
 
@@ -71,6 +72,7 @@ print(coding_stuff.startswith("Coding"))
 print(coding_stuff.endswith("coding")) 
 stuffing = '   Coding For All      ' 
 print(stuffing.strip())
+
 #Which one of the following variables return True when we use the method isidentifier():
 #30DaysOfPython
 #thirty_days_of_python
